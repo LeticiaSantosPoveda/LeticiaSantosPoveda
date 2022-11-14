@@ -1,4 +1,4 @@
-### Hi there, I'm Leticia 
+### Hi there, I'm Leticia <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 ## About me
 
