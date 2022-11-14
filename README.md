@@ -34,6 +34,7 @@ Developed with: JavaScript, Node, Express & Mongo (check the repo <a href="https
 ### Clean the planet
 
 <a href="https://leticiasantospoveda.github.io/Clean-the-planet/"><img src="./images/cleantheplanet.png" alt="Clean the planet" /></a><br />
+My solo first project developed after two weeks learning how to code. Clean the planet is a kids game where you must move the yellow bin to recycle cans.
 <br />
 Developed with: JavaScript, HTML, CSS & Canvas (check the repo <a href="https://github.com/LeticiaSantosPoveda/Clean-the-planet">here</a>).
 
