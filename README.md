@@ -37,4 +37,6 @@ Developed with: JavaScript, Node, Express & Mongo (check the repo <a href="https
 <br />
 Developed with: JavaScript, HTML, CSS & Canvas (check the repo <a href="https://github.com/LeticiaSantosPoveda/Clean-the-planet">here</a>).
 
-
+Contact me!
+<a href="https://www.linkedin.com/in/leticiasantospoveda"><img align="right" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" alt="Leticia's LinkedIn" /></a>
+<a href="mailto:leticia.s.poveda@gmail.com"><img align="right" width="20px" src="https://simpleicons.now.sh/maildotru/495f7e" alt="Leticia's mail" /></a>
