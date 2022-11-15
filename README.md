@@ -30,7 +30,7 @@ Developed with: JavaScript, Node, Express, Mongo & React (check the repo <a href
 ### My Meme
 
 <a href="https://mymemevintage.herokuapp.com/"><img src="./images/mymeme.png" alt="My meme" /></a><br />
-<br />
+My meme is a social media application where you can watch post with memes from other people and also create your own. Backend application developed in 4 days at Ironhack, together with two more colleagues.<br />
 Developed with: JavaScript, Node, Express & Mongo (check the repo <a href="https://github.com/JusiBP/myMeme">here</a>).
 
 ### Clean the planet
