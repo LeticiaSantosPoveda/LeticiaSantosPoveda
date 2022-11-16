@@ -26,7 +26,7 @@
 #### Adopta una huella
 
 <a href="https://adopta-una-huella.netlify.app/"><img src="./images/Huella.png" alt="Adopta una Huella" /></a><br />
-Adopta una huella is a single web application where you can adopt pets from different foundations. Our main goal is to make easier the process to adopt a pet and also help foundations to promote pet adoptations. Full stack app developed in a week at Ironhack, together with two more colleagues.<br />
+Adopta una huella is a single page application where you can adopt pets from different foundations. Our main goal is to make easier the process to adopt a pet and also help foundations to promote pet adoptations. Full stack app developed in a week at Ironhack, together with two more colleagues.<br />
 Developed with: JavaScript, Node, Express, Mongo & React (check the repo <a href="https://github.com/AndreaAlarcon99/adopta-una-huella-FRONT">here</a>).
 
 #### My Meme
