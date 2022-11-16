@@ -2,7 +2,9 @@
 
 ## 👩🏻‍💻 About me
 
-
+- 👀 Curious and good observer.
+- 📝 Always learning.
+- 🤗 Restless for discovering new things.
 
 ### 🔧 Technologies & Tools
 
