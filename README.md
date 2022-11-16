@@ -6,7 +6,7 @@
 - 📝 Always learning.
 - 🤗 Restless for discovering new things.
 
-### 🔧 Technologies & Tools
+## 🔧 Technologies & Tools
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -23,21 +23,21 @@
 
 
 
-### ✨ My projects
+## ✨ My projects
 
-#### Adopta una huella
+### Adopta una huella
 
 <a href="https://adopta-una-huella.netlify.app/"><img src="./images/Huella.png" alt="Adopta una Huella" /></a><br />
 Adopta una huella is a single page application where you can adopt pets from different foundations. Our main goal is to make easier the process to adopt a pet and also help foundations to promote pet adoptations. Full stack app developed in a week at Ironhack, together with two more colleagues.<br />
 Developed with: JavaScript, Node, Express, Mongo & React (check the repo <a href="https://github.com/AndreaAlarcon99/adopta-una-huella-FRONT">here</a>).
 
-#### My Meme
+### My Meme
 
 <a href="https://mymemevintage.herokuapp.com/"><img src="./images/mymeme.png" alt="My meme" /></a><br />
 My meme is a social media application where you can watch post with memes from other people and also create your own. Backend application developed in 4 days at Ironhack, together with two more colleagues.<br />
 Developed with: JavaScript, Node, Express & Mongo (check the repo <a href="https://github.com/JusiBP/myMeme">here</a>).
 
-#### Clean the planet
+### Clean the planet
 
 <a href="https://leticiasantospoveda.github.io/Clean-the-planet/"><img src="./images/cleantheplanet.png" alt="Clean the planet" /></a><br />
 My solo first project developed after two weeks learning how to code. Clean the planet is a kids game where you must move the yellow bin to recycle cans.
