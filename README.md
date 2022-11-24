@@ -28,7 +28,7 @@
 ### Adopta una huella
 
 <a href="https://adopta-una-huella.netlify.app/"><img src="./images/Huella.png" alt="Adopta una Huella" /></a><br />
-Adopta una huella is a single page application where you can adopt pets from different foundations. Our main goal is to make easier the process to adopt a pet and also help foundations to promote pet adoptations. Full stack app developed in a week at Ironhack, together with two more colleagues.<br />
+Adopta una huella is a single page application where you can adopt pets from different foundations. Our main goal is to make easier the process to adopt a pet and also help foundations to promote pet adoptations. Full stack app developed in a 5 days at Ironhack, together with two more colleagues.<br />
 Developed with: JavaScript, Node, Express, Mongo & React (check the repo <a href="https://github.com/AndreaAlarcon99/adopta-una-huella-FRONT">here</a>).
 
 ### My Meme
@@ -40,7 +40,7 @@ Developed with: JavaScript, Node, Express & Mongo (check the repo <a href="https
 ### Clean the planet
 
 <a href="https://leticiasantospoveda.github.io/Clean-the-planet/"><img src="./images/cleantheplanet.png" alt="Clean the planet" /></a><br />
-My solo first project developed after two weeks learning how to code. Clean the planet is a kids game where you must move the yellow bin to recycle cans.
+My solo first project developed in 5 days at Ironhack after two weeks learning how to code. Clean the planet is a kids game where you must move the yellow bin to recycle cans.
 <br />
 Developed with: JavaScript, HTML, CSS & Canvas (check the repo <a href="https://github.com/LeticiaSantosPoveda/Clean-the-planet">here</a>).
 
