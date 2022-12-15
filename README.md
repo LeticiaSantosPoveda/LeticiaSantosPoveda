@@ -27,8 +27,8 @@
 
 ### Adopta una huella
 
-<a href="https://adopta-una-huella.netlify.app/"><img src="./images/Huella.png" alt="Adopta una Huella" /></a><br />
-Adopta una huella is a single page application where you can adopt pets from different foundations. Our main goal is to make easier the process to adopt a pet and also help foundations to promote pet adoptations. Full stack app developed in a 5 days at Ironhack, together with two more colleagues.<br />
+<a href="https://adopta-huella.netlify.app/"><img src="./images/Huella.png" alt="Adopta una Huella" /></a><br />
+[Adopta una huella](https://adopta-huella.netlify.app/) is a **Full Stack application** where you can adopt pets from different foundations. Our main goal is to make easier the process to adopt a pet and also help foundations to promote pet adoptations. Full stack app developed in a 5 days at Ironhack, together with two more colleagues.<br />
 Developed with: JavaScript, Node, Express, Mongo & React (check the frontend repo <a href="https://github.com/AndreaAlarcon99/adopta-una-huella-FRONT">here</a> and the backend repo <a href="https://github.com/AndreaAlarcon99/adopta-una-huella-BACK">here</a>).
 
 ### My Meme
@@ -46,7 +46,8 @@ Developed with: JavaScript, HTML, CSS & Canvas (check the repo <a href="https://
 
 ---
 
-Contact me!
+Contact me:
 
-<a href="https://www.linkedin.com/in/leticiasantospoveda"><img align="left" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" alt="Leticia's LinkedIn" /></a>
-<a href="mailto:leticia.s.poveda@gmail.com"><img align="left" width="20px" src="https://simpleicons.now.sh/maildotru/495f7e" alt="Leticia's mail" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticiasantospoveda)
+
+[![mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leticia.s.poveda@gmail.com)
