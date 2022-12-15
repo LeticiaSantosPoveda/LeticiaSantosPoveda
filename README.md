@@ -29,20 +29,20 @@
 
 <a href="https://adopta-huella.netlify.app/"><img src="./images/Huella.png" alt="Adopta una Huella" /></a><br />
 [Adopta una huella](https://adopta-huella.netlify.app/) is a **Full Stack application** where you can adopt pets from different foundations. Our main goal is to make easier the process to adopt a pet and also help foundations to promote pet adoptations. Full stack app developed in a 5 days at Ironhack, together with two more colleagues.<br />
-Developed with: JavaScript, Node, Express, Mongo & React (check the frontend repo <a href="https://github.com/AndreaAlarcon99/adopta-una-huella-FRONT">here</a> and the backend repo <a href="https://github.com/AndreaAlarcon99/adopta-una-huella-BACK">here</a>).
+Developed with: **JavaScript, Node, Express, Mongo & React**. (check the frontend repo [here](https://github.com/AndreaAlarcon99/adopta-una-huella-FRONT) and the backend repo [here](https://github.com/AndreaAlarcon99/adopta-una-huella-BACK)
 
 ### My Meme
 
 <a href="https://mymemevintage.herokuapp.com/"><img src="./images/mymeme.png" alt="My meme" /></a><br />
-My meme is a social media application where you can watch post with memes from other people and also create your own. Backend application developed in 4 days at Ironhack, together with two more colleagues.<br />
-Developed with: JavaScript, Node, Express & Mongo (check the repo <a href="https://github.com/JusiBP/myMeme">here</a>).
+[My meme](https://adopta-huella.netlify.app/) is a social media application where you can watch post with memes from other people and also create your own. **Backend application** developed in 4 days at Ironhack, together with two more colleagues.<br />
+Developed with: **JavaScript, Node, Express & Mongo**. (check the repo [here](https://github.com/JusiBP/myMeme))
 
 ### Clean the planet
 
 <a href="https://leticiasantospoveda.github.io/Clean-the-planet/"><img src="./images/cleantheplanet.png" alt="Clean the planet" /></a><br />
-My solo first project developed in 5 days at Ironhack after two weeks learning how to code. Clean the planet is a kids game where you must move the yellow bin to recycle cans.
+[Clean the planet](https://leticiasantospoveda.github.io/Clean-the-planet/) is a kids game where you must move the yellow bin to recycle cans. My solo first project developed in 5 days at Ironhack after two weeks learning how to code.
 <br />
-Developed with: JavaScript, HTML, CSS & Canvas (check the repo <a href="https://github.com/LeticiaSantosPoveda/Clean-the-planet">here</a>).
+Developed with: **JavaScript, HTML, CSS & Canvas**. (check the repo <a href="https://github.com/LeticiaSantosPoveda/Clean-the-planet">here</a>).
 
 ---
 
